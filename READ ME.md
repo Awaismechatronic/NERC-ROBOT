@@ -75,12 +75,12 @@ Built by a team of five as part of the National Engineering Robotics Contest (NE
 ## 📸 Gallery
 
 <p align="center">
-  <img src="images/pose 1.jpeg" width="400"><br>
+  <img src="images/pose 2.jpeg" width="400"><br>
   <em>Side view — showing domino-holding mechanism and drivetrain</em>
 </p>
 
 <p align="center">
-  <img src="images/pose 2.jpeg" width="400"><br>
+  <img src="images/pose 1.jpeg" width="400"><br>
   <em>Front view — sensor array for line following and junction detection</em>
 </p>
 
