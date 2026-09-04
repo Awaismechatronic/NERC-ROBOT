@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="images/nerc-robot-1.jpeg" width="270">
-  <img src="images/nerc-robot-2.jpeg" width="270">
-  <img src="images/nerc-robot-3.jpeg" width="270">
+  <img src="images/pose 1.jpeg" width="270">
+  <img src="images/pose 2.jpeg" width="270">
+  <img src="images/pose 3.jpeg" width="270">
 </p>
 
 ---
